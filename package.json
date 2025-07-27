@@ -1,0 +1,19 @@
+{
+  "name": "codus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saksham932007/Codus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saksham932007/Codus/issues"
+  },
+  "homepage": "https://github.com/Saksham932007/Codus#readme",
+  "description": ""
+}
